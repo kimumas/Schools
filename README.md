@@ -1,5 +1,5 @@
 ## Data Science Project
-In this project, I looked at SAT scores of hish schools, along with various demographic and other information about them.
+In this project, I looked at SAT scores of high schools, along with various demographic and other information about them.
 
 The SAT, or Scholastic Aptitude Test, is a test that high schoolers take in the US before applying to college and that College uses the test score for admissions decisions. So, high schools are often ranked by their average SAT scores, and high SAT scores are considered a sign of how good a school district is.  
 ### Data Used
