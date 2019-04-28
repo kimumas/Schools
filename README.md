@@ -15,8 +15,8 @@ Here are the links to all of the datasets I used:
 * [School survey](https://data.cityofnewyork.us/Education/NYC-School-Survey-2011/mnz3-dyi8) — surveys of parents, teachers, and students at each school.
 * [School district maps](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj) — contains information on the layout of the school districts, so that we can map them out.
 ### Data Cleaning
-In the first part of this project, I consolidated those data into a single dataset and did a good amount of data cleaning.
+In the first part of this project, I consolidated those data into a single dataset and did a good amount of data cleaning.  
 Here, I used the pandas tools to load, clean, transform, merge, and reshape real-world data.
 ### Exploratory Data Analysis
-In the second part of this project, I analyzed factors that correlated with the SAT scores, and did some exploratory visualization and analysis.
+In the second part of this project, I analyzed factors that correlated with the SAT scores, and did some exploratory visualization and analysis.  
 Here, I created scatter plots with matplotlib and interactive geographic visualization with folium.
