@@ -19,4 +19,5 @@ In the first part of this project, I consolidated those data into a single datas
 Here, I used the pandas tools to load, clean, transform, merge, and reshape real-world data.
 ### Exploratory Data Analysis
 In the second part of this project, I analyzed factors that correlated with the SAT scores, and did some exploratory visualization and analysis.  
-Here, I created scatter plots with matplotlib and interactive geographic visualizations with folium.
+Here, I created scatter plots with matplotlib and interactive geographic visualizations with folium.  
+You can use [nbviewer](https://nbviewer.jupyter.org/github/kimumas/Storytelling-with-data/blob/master/Part%202%20-%20Explanatory%20Data%20Analysis.ipynb)
