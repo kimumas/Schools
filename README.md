@@ -21,4 +21,4 @@ You can also use [nbviewer](https://nbviewer.jupyter.org/github/kimumas/Storytel
 ### Exploratory Data Analysis
 In the second part of this project, I analyzed factors that correlated with the SAT scores, and did some exploratory visualization and analysis.  
 Here, I created scatter plots with matplotlib and interactive geographic visualizations with folium.  
-You can use [nbviewer](https://nbviewer.jupyter.org/github/kimumas/Storytelling-with-data/blob/master/Part%202%20-%20Explanatory%20Data%20Analysis.ipynb) to view interactive contents.
+You can use [nbviewer](https://nbviewer.jupyter.org/github/kimumas/Storytelling-with-data/blob/master/Part%202%20-%20Explanatory%20Data%20Analysis.ipynb) to view interactive contents. For complete display, Fireox is recommended to use as a browser.
